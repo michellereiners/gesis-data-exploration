@@ -1,0 +1,11 @@
+,cust_id,first_name,last_name,first_name_,last_name_,price_count,price_sum,price_mean
+0,1,Max, Mustemann,Max, Mustemann,4.0,155.96,38.99
+1,2,Ben, Mayer,Ben, Mayer,3.0,68.97,22.99
+2,3,Sarah, Mueller,Sarah, Mueller,4.0,177.96,44.49
+3,4,Tina, Berger,Tina, Berger,8.0,226.92,28.36
+4,5,Donald, T.,Donald, T.,9.0,381.91,42.43
+5,6,Miriam, Faber,Miriam, Faber,2.0,45.98,22.99
+6,7,Thomas, Hase,,,0.0,0.0,0.0
+7,8,Fabian, Engelbert,Fabian, Engelbert,1.0,15.99,15.99
+8,9,Hans, Kleber,Hans, Kleber,7.0,245.93,35.13
+9,10,Brigitte, Jefferson,Brigitte, Jefferson,2.0,31.98,15.99
