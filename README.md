@@ -2,5 +2,7 @@
 GESIS - Data exploration exercise on Government Dataset
 Starting on 04.03.20
 
-Fill in the fields to see the markdown badge snippet.
-Fill in the fields to see the rST badge snippet.
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/michellereiners/gesis-data-exploration/master)
+
+.. image:: https://notebooks.gesis.org/binder/badge_logo.svg
+ :target: https://notebooks.gesis.org/binder/v2/gh/michellereiners/gesis-data-exploration/master
