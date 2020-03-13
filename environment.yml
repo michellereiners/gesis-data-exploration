@@ -1,0 +1,25 @@
+name: compsoc_env
+channels:
+  - defaults
+  - conda-forge
+  - ostrokach-forge
+  - pkgw-forge
+dependencies:
+  - python=3.6
+  - pygobject
+  - pymongo
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - scipy
+  - pandas
+  - networkx=2.2
+  - graph-tool=2.27
+  - cairo>=1.14
+  #  - cairomm>=1.13
+  - pycairo
+  - pip
+  - pip:
+    - smm-wrapper==1.3.1
+    - powerlaw
+    - python-louvain
